@@ -1,0 +1,27 @@
+.calc-body{
+    width: 450px;
+    height: 570px;
+    background: black;
+    margin-left: 450px;
+    border-radius: 8px;
+}
+#screen{
+    width: 80%;
+    height: 40px;
+    margin-left: 34px;
+    margin-top: 34px;
+    pointer-events: none;
+}
+.btn{
+    width: 56px;
+    height: 45px;
+    margin-left: 40px;
+    margin-top: 43px;
+    background: #ffffff;
+    border-radius: 50%;
+}
+.adv{
+    color: white;
+    margin-left: 140px;
+    color: blue;
+}
